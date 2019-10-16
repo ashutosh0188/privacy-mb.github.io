@@ -1,6 +1,6 @@
 Last updated: 15 October 2019
 
-We operates ePoster app, An initiative of Abhyudaya Sankalp Foundation “mission Abhyudaya” for improving primary education to ensure quality education in Primary & Upper Primary Schools run by the government. This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the app.
+We operates ePoster app, An initiative of Abhyudaya Sankalp Foundation "Mission Abhyudaya" for improving primary education to ensure quality education in Primary & Upper Primary Schools run by the government. This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the app.
 
 We use your Personal Information only for providing and improving the App. By using the App, you agree to the collection and use of information in accordance with this policy.
 
