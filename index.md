@@ -1,19 +1,29 @@
-ePoster" यानी Educational Posters. 
+Last updated: 15 October 2019
 
-बेसिक शिक्षा में शिक्षणकार्य व अन्य सहगामी गतिविधियों के उत्कृष्ट संचालन एवं शैक्षिक सहयोग हेतु टीम मिशन अभ्युदय एवं अन्य स्वप्रेरित शिक्षक अपने ePosters (0 से कक्षा 8 तक) विभिन्न Categories और Topic wise, App पर Upload करेंगे।
+We operates E Poster app, An initiative of Abhyudaya Sankalp Foundation “mission Abhyudaya” for improving primary education to ensure quality education in Primary & Upper Primary Schools run by the government. This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the app.
 
-अपलोड किए गए ePosters , एडमिन द्वारा Approval के बाद App पर सभी के उपयोग लिए उपलब्ध हो जाएंगे। इन ePosters को आवश्यकतानुसार 24×7 View / Read / Download करके किसी भी रूप में इस्तेमाल किया जा सकेगा।
+We use your Personal Information only for providing and improving the App. By using the App, you agree to the collection and use of information in accordance with this policy.
 
-ePoster App को सबसे पहले Playstore पर जाकर ePoster सर्च करके Download करना होगा। App Download होने के बाद नए User को एक बहुत आसान Sign up करना होगा। मोबाइल नम्बर OTP Verification के बाद वे Sign in करके App का प्रयोग कर सकेंगे। 
+Information Collection And Use\n\nWhile using our App, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (\"Personal Information\"). 
 
-यह App "मिशन अभ्युदय" द्वारा संचालित है। यह बेसिक शिक्षा के क्षेत्र में सीखने के संकट (Learning Crisis) दूर कर विद्यालयी शिक्षा को सुगम, सुलभ एवं आनंददायक बनाने तथा बेसिक शिक्षा के उन्नयन हेतु स्वप्रेरित शिक्षकों द्वारा किये जा रहे सृजनात्मक प्रयासों को प्रोत्साहित करने हेतु स्वप्रेरित शिक्षकों का एक समूह है। 
+Communications
+We may use your Personal Information to contact you with newsletters, educational service or study materials and other information that will be supporting content for your teaching profession. 
 
-इस App के निर्माण में विशेष वैचारिक सहयोग श्री जयंत धर द्विवेदी जी (शिक्षक) , App Development का कार्य श्री आशुतोष श्रीवास्तव जी और टेक्निकल सपोर्ट श्री मुज़म्मिल अहमद जी (AdWorld) का रहा है। 
 
-अंत में हम अपने परिवार , अपने विद्यालय PS बैजनाथपुर के सभी शिक्षकों एवं हमारे जनपद श्रावस्ती के बेसिक शिक्षा अधिकारी श्री ओमकार नाथ राणा जी तथा मिशन अभ्युदय समूह से जुड़े सभी शिक्षकों द्वारा उनके सतत मार्गदर्शन एवं प्रोत्साहन के लिए धन्यवाद देते हैं। 
+Security\n\nThe security of your “Personal Information’ is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. We strive to use commercially acceptable means to protect your Personal Information.
 
--प्रेम कुमार वर्मा 
-(संस्थापक : मिशन अभ्युदय) 
-स. अ. P S बैजनाथपुर , श्रावस्ती उ प्र।
-सम्पर्क सूत्र : 9453162878
-e-mail : abhyudaya.mission@gmail.com
+Changes To This Privacy Policy
+
+This Privacy Policy is effective as of 15 October 2019 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our webapp.
+
+
+Contact Us
+
+If you have any questions about this Privacy Policy, 
+please contact us.................
+abhydaya.mission@gmail.com
